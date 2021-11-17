@@ -1,0 +1,128 @@
+html, body{
+    background-color:indigo;
+}
+
+.ieltstable{
+
+    padding-left: 10px;
+
+}
+
+.logo{
+    text-align: center;
+}
+
+/* img {
+    margin: auto;
+    display: block;
+  } */
+
+.one-two{
+    background-color: darkorange;
+    height: 320px;
+    width: 40%;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 1.5rem;
+    margin: 10px;
+}
+
+.one-one{
+    background-color:deepskyblue;
+    height: 320px;
+    width: 40%;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 1.5rem;
+    margin: 10px;
+}
+
+.four-two{
+    background-color: darkorange;
+    height: 250px;
+    width: 40%;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 1.5rem;
+    margin: 10px;
+}
+
+.four-one{
+    background-color:rgb(240, 82, 121);
+    height: 250px;
+    width: 40%;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 1.5rem;
+    margin: 10px;
+}
+
+.listinblocks{
+    color: white;
+    margin-right: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.middle{
+        background-color:rgb(240, 82, 121);
+        height: 175px;
+        width: 82%;
+        display: inline-block;
+        vertical-align: middle;
+        text-align: center;
+        line-height: 1.5rem;
+        margin: 10px;
+}
+
+.second-middle{
+    background-color:deepskyblue;
+    height: 250px;
+    width: 82%;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: left;
+    line-height: 1.5rem;
+    margin: 10px;
+}
+
+.five-middle{
+    background-color:deepskyblue;
+    height: 150px;
+    width: 82%;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: left;
+    line-height: 1.5rem;
+    margin: 10px;
+}
+
+.six-middle{
+    background-color: darkorange;
+    height: 150px;
+    width: 82%;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: left;
+    line-height: 1.5rem;
+    margin: 10px;
+}
+
+
+
+.split{
+    height: 100px;
+    width: 47%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 10px;
+}
+
+p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: smaller;
+    color: white;
+}
